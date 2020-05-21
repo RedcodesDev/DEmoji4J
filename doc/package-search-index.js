@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"de.visionvenue.demoji4j.api.DiscordEmoji"},{"l":"de.visionvenue.demoji4j.api.emoji"},{"l":"de.visionvenue.demoji4j.api.enums"},{"l":"de.visionvenue.demoji4j.api.packs"},{"l":"de.visionvenue.demoji4j.api.user"},{"l":"de.visionvenue.demoji4j.test"}]
